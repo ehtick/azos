@@ -1,5 +1,7 @@
 # Azos - A to Z Business Operating System
 
+z
+
 Supports: .Net 6.0 Server Components; .Net Standard 2.1 Azos, Azos.Sky clients and server components
 
 <img src="/elm/design/logo/azos.png" alt="Logo" >
